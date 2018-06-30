@@ -10,6 +10,7 @@ export default class TeamTable extends React.Component {
             if(teamAIndex === -1){
                 var newTeam = {
                     "name" : game.teamA,
+                    "icon" : "flags/" + game.teamA.replace(" ","_") +".png",
                     "results" : [
                         { "opponent": game.teamB,
                         "teamScore": game.scoreA,
@@ -27,6 +28,7 @@ export default class TeamTable extends React.Component {
             if(teamBIndex === -1){
                 newTeam = {
                     "name" : game.teamB,
+                    "icon" : "flags/" + game.teamB.replace(" ","_") +".png",
                     "results" : [
                         { "opponent": game.teamA,
                         "teamScore": game.scoreB,
