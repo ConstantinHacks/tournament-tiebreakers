@@ -1,0 +1,44 @@
+[
+    {
+      "id":1,
+      "teamA": "Belgium",
+      "teamB": "Panama",
+      "scoreA": 3,
+      "scoreB": 0
+    },
+    {
+      "id":2,
+      "teamA": "Tunisia",
+      "teamB": "England",
+      "scoreA": 1,
+      "scoreB": 2
+    },
+    {
+      "id":3,
+      "teamA": "Belgium",
+      "teamB": "Tunisia",
+      "scoreA": 5,
+      "scoreB": 2
+    },
+    {
+      "id":4,
+      "teamA": "England",
+      "teamB": "Panama",
+      "scoreA": 6,
+      "scoreB": 1
+    },
+    {
+      "id":5,
+      "teamA": "England",
+      "teamB": "Belgium",
+      "scoreA": 0,
+      "scoreB": 1
+    },
+    {
+      "id":6,
+      "teamA": "Panama",
+      "teamB": "Tunisia",
+      "scoreA": 1,
+      "scoreB": 2
+    }
+  ]

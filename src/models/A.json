@@ -1,0 +1,44 @@
+[
+    {
+      "id":1,
+      "teamA": "Russia",
+      "teamB": "Saudi Arabia",
+      "scoreA": 5,
+      "scoreB": 0
+    },
+    {
+      "id":2,
+      "teamA": "Russia",
+      "teamB": "Egypt",
+      "scoreA": 3,
+      "scoreB": 1
+    },
+    {
+      "id":3,
+      "teamA": "Uruguay",
+      "teamB": "Saudi Arabia",
+      "scoreA": 1,
+      "scoreB": 0
+    },
+    {
+      "id":4,
+      "teamA": "Saudi Arabia",
+      "teamB": "Egypt",
+      "scoreA": 2,
+      "scoreB": 1
+    },
+    {
+      "id":5,
+      "teamA": "Uruguay",
+      "teamB": "Russia",
+      "scoreA": 3,
+      "scoreB": 0
+    },
+    {
+      "id":6,
+      "teamA": "Egypt",
+      "teamB": "Uruguay",
+      "scoreA": 0,
+      "scoreB": 1
+    }
+  ]

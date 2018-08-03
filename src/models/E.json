@@ -1,0 +1,44 @@
+[
+    {
+      "id":1,
+      "teamA": "Costa Rica",
+      "teamB": "Serbia",
+      "scoreA": 0,
+      "scoreB": 1
+    },
+    {
+      "id":2,
+      "teamA": "Brazil",
+      "teamB": "Switzerland",
+      "scoreA": 1,
+      "scoreB": 1
+    },
+    {
+      "id":3,
+      "teamA": "Brazil",
+      "teamB": "Costa Rica",
+      "scoreA": 2,
+      "scoreB": 0
+    },
+    {
+      "id":4,
+      "teamA": "Serbia",
+      "teamB": "Switzerland",
+      "scoreA": 1,
+      "scoreB": 2
+    },
+    {
+      "id":5,
+      "teamA": "Serbia",
+      "teamB": "Brazil",
+      "scoreA": 0,
+      "scoreB": 2
+    },
+    {
+      "id":6,
+      "teamA": "Switzerland",
+      "teamB": "Costa Rica",
+      "scoreA": 2,
+      "scoreB": 2
+    }
+  ]

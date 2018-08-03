@@ -1,4 +1,4 @@
-.App {
+.App, h2, button {
   text-align: center;
 }
 
@@ -15,4 +15,8 @@
 
 .App-intro {
   font-size: large;
+}
+
+.dropdown{
+  text-align: center
 }

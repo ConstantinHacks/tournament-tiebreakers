@@ -31,14 +31,14 @@
     "id":5,
     "teamA": "South Korea",
     "teamB": "Germany",
-    "scoreA": 0,
+    "scoreA": 2,
     "scoreB": 0
   },
   {
     "id":6,
     "teamA": "Sweden",
     "teamB": "Mexico",
-    "scoreA": 0,
+    "scoreA": 3,
     "scoreB": 0
   }
 ]

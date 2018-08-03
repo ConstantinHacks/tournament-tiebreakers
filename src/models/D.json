@@ -1,0 +1,44 @@
+[
+    {
+      "id":1,
+      "teamA": "Argentina",
+      "teamB": "Iceland",
+      "scoreA": 1,
+      "scoreB": 1
+    },
+    {
+      "id":2,
+      "teamA": "Croatia",
+      "teamB": "Nigeria",
+      "scoreA": 2,
+      "scoreB": 0
+    },
+    {
+      "id":3,
+      "teamA": "Argentina",
+      "teamB": "Croatia",
+      "scoreA": 0,
+      "scoreB": 3
+    },
+    {
+      "id":4,
+      "teamA": "Nigeria",
+      "teamB": "Iceland",
+      "scoreA": 2,
+      "scoreB": 0
+    },
+    {
+      "id":5,
+      "teamA": "Iceland",
+      "teamB": "Croatia",
+      "scoreA": 1,
+      "scoreB": 2
+    },
+    {
+      "id":6,
+      "teamA": "Nigeria",
+      "teamB": "Argentina",
+      "scoreA": 1,
+      "scoreB": 2
+    }
+  ]

@@ -73,8 +73,9 @@ export default class TeamTable extends React.Component {
         })
         
         modifiedTeams = modifiedTeams.sort(this.sortTeams)
-
-        console.log(modifiedTeams)
+        modifiedTeams.forEach(function(team,index){
+            team.rank = index+1
+        })
 
         return modifiedTeams
     }

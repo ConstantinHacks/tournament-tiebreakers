@@ -6,10 +6,14 @@ export default class Team extends React.Component {
         teamData: PropTypes.object,
     };
 
+    getColor(rank) {
+        return rank > 2 ? "table-danger" : "table-success"
+    }
+
     render(){
         return (
-            <tr>
-            <th><img src={process.env.PUBLIC_URL + this.props.teamData.icon}/> {this.props.teamData.name}</th>
+            <tr className={this.getColor(this.props.teamData.rank)}>
+            <th><img alt="Flag" src={process.env.PUBLIC_URL + this.props.teamData.icon}/> {this.props.teamData.name}</th>
             <td>{this.props.teamData.wins}</td>
             <td>{this.props.teamData.ties}</td>
             <td>{this.props.teamData.losses}</td>
